@@ -1,2 +1,3 @@
 # nextcloudServer
-A simple nextcloud server
+A simple nextcloud server.
+Run script as root, passing USER name.
