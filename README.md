@@ -9,5 +9,5 @@ Project is created with:
 To run this script, passing USER, and run as ROOT.
 
 ```
-sudo ./script-name-here.sh <USER>
+sudo ./nextcloudServer.sh <USER>
 ```
